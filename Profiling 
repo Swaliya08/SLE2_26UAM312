@@ -1,0 +1,13 @@
+----- BFS RESULTS -----
+Path: ['A', 'B', 'E', 'G']
+Nodes Expanded: 7
+Average Time: 0.0041633000000729226 ms
+
+----- DFS RESULTS -----
+Path: ['A', 'B', 'E', 'G']
+Nodes Expanded: 5
+Average Time: 0.0028170000000500295 ms
+
+
+
+
